@@ -30,10 +30,11 @@ h3{
 }
 
 
-a:link { color: blue;}
-a:visited { color: blue;}
-a:active { color: blue;}
+a:link { color: white;}
+a:visited { color: white;}
+a:active { color: white;}
 a:hover { color: red;}
 
 dl.rireki { color: white; background-color: #044; }
 dl.license { color: white; background-color: #404; }
+dl.kennkyuu { color: white; background-color: #008B8B}
